@@ -9,7 +9,7 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 经测试本镜像占用内存资源较低，运行稳定。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fehkkgghkjgr/vlessheroku/edit/master/README.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/CKgheidkse456/vlessheroku/edit/master/README.md)
 
 ## 注意
 
